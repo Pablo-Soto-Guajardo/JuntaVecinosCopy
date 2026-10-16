@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Logo vectorial de la app: una sede comunitaria con techo y puerta -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="160dp"
+    android:height="160dp"
+    android:viewportWidth="160"
+    android:viewportHeight="160">
+    <path
+        android:fillColor="#FF1F6F54"
+        android:pathData="M80,0a80,80 0,1 1,0 160a80,80 0,1 1,0 -160z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M80,34L126,72L116,72L116,122L44,122L44,72L34,72Z" />
+    <path
+        android:fillColor="#FF1F6F54"
+        android:pathData="M70,92L90,92L90,122L70,122Z" />
+    <path
+        android:fillColor="#FFF2B233"
+        android:pathData="M52,80L66,80L66,94L52,94Z" />
+    <path
+        android:fillColor="#FFF2B233"
+        android:pathData="M94,80L108,80L108,94L94,94Z" />
+</vector>

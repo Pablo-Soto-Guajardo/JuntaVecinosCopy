@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Carpeta privada de la app donde se guardan fotos de comprobantes y de perfil.
+     FileProvider la expone de forma segura (content://) a la app de cámara. -->
+<paths>
+    <files-path
+        name="imagenes"
+        path="imagenes/" />
+</paths>

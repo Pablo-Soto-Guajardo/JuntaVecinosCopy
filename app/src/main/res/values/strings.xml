@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Junta Zaror</string>
+    <string name="canal_notificaciones">Avisos de la Junta de Vecinos</string>
+    <string name="canal_notificaciones_desc">Confirmaciones de reservas y registro de pagos</string>
+</resources>
